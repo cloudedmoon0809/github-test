@@ -1,11 +1,5 @@
 print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
+print("bye")
 
 print("hi")
 print("hi")
